@@ -1,4 +1,4 @@
-# Links On The Line
+# Links On The Line - In Progress
 
 ## Analysis
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
@@ -25,4 +25,4 @@
 - 
 
 ## Misc
-- [WTF Binaries - cause tools to trigger alerts](https://wtfbins.wtf/)
+- [WTF Binaries - List of executables that might trigger alerts](https://wtfbins.wtf/)
